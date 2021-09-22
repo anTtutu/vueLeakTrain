@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # vueLeakTrain
  前端项目的漏洞靶场
-=======
-# demo2
 
 ## Project setup
 ```
@@ -26,4 +24,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> cdd0c32... init

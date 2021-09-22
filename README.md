@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vueLeakTrain
  前端项目的漏洞靶场
 
